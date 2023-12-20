@@ -4,4 +4,4 @@ Two Matsubara sums are evaluated analytically by inserting poles with appropriat
 The resulting expression is split into 4 terms for simplification and converted to C code for the numerical implementation of the k-sums.
 
 The notebook can be run with Mathematica and will take a few minutes on a typical laptop.
-We used Mathematica version 12.
+We used Mathematica version 12 on Ubuntu.
